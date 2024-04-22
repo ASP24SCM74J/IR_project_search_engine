@@ -163,7 +163,7 @@ The source code for the project is available in the following files:
 - **[indexing.py (Indexer)](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/indexing.py)**
 - **[app.py (Query processor)](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/app.py)**
 - **[Pickle file](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/inverted_index.pkl)**
-- **[Scrapped pages](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/inverted_index.pkl)**
+- **[Scrapped pages](https://github.com/ASP24SCM74J/IR_project_search_engine/tree/main/wikicrawler/html_files_directory)**
 - **[source for webscrapping html urls.txt file](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/urls.txt)**
 
 ## 9. Bibliography:
