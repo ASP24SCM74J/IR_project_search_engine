@@ -159,12 +159,12 @@ Test cases were conducted to validate the functionality of each component:
 
 ## 8. Source Code:
 The source code for the project is available in the following files:
-- **Wiki_spider.py (Scrapy crawler) :**
-- **indexing.py (Indexer) :**
-- **app.py (Query processor) :**
-- **Pickle file :**
-- **Scrapped pages :**
-- **source for webscrapping html urls.txt file :**
+- **[Wiki_spider.py (Scrapy crawler)](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/wikicrawler/spiders/wiki_spider.py)**
+- **[indexing.py (Indexer)](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/indexing.py)**
+- **[app.py (Query processor)](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/app.py)**
+- **[Pickle file](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/inverted_index.pkl)**
+- **[Scrapped pages](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/inverted_index.pkl)**
+- **[source for webscrapping html urls.txt file](https://github.com/ASP24SCM74J/IR_project_search_engine/blob/main/wikicrawler/urls.txt)**
 
 ## 9. Bibliography:
 References to libraries, frameworks, and resources used in the project:
